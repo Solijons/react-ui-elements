@@ -1,0 +1,14 @@
+.custom-loader {
+    background: url('./assets/Facebook-1.5s-25px.gif') no-repeat left;
+    background-color: #eeeeee;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 15px;
+    border-radius: 10px;
+}
+
+.custom-loader i {
+    margin-left: 20px;
+}
